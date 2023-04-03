@@ -8,3 +8,5 @@ How to run Backend :-
 #run command in Terminal -
 1. npm install
 2. npm start
+
+Github Link to know more = https://github.com/cs2812/Cointab-Assignment
