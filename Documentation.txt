@@ -1,0 +1,10 @@
+How to run Frontend :-
+#run command in Terminal -
+1. npm install
+2. npm start.
+
+How to run Backend :-
+#Add mongodb database in config file
+#run command in Terminal -
+1. npm install
+2. npm start
